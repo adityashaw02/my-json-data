@@ -8,7 +8,7 @@
     "announcements": [
       {
         "title": "New revision batch live 2026",
-        "message": "Bonus revision lectures for IUPS-2024 have been added to your course folder. Check the 'Revision' subfolder.",
+        "message": "Bonus revision lectures for SSC CGL-2026 have been added to your course folder. Check the 'Revision' subfolder.",
         "date": "2026-07-14"
       },
       {
@@ -18,11 +18,11 @@
       }
     ],
     "classes": {
-      "SSDK-2024": {
-        "poster": "https://drive.google.com/thumbnail?id=1HVRIIBjhrC6XdDQ1SJmzSBHBSliAN3_V&sz=w1000",
+      "SSC CGL-2026": {
+        "poster": "https://drive.google.com/file/d/1uYQgf-ZgYudJxW-8pNSVPRwLZmOCjvcq/view?usp=drivesdk",
         "description": "Comprehensive skill development program covering structured modules, recorded lectures, practice materials and guided learning support for the 2024 batch.",
         "instructor": {
-          "name": "Rahul Shaw",
+          "name": "Rahul Sharma",
           "bio": "10+ years teaching skill-development and career-readiness programs."
         },
         "level": "Beginner",
@@ -36,7 +36,7 @@
           {
             "phone": "6203304540",
             "auth_key": "key1",
-            "name": "Riya Sharma",
+            "name": "Isha Sharma",
             "batch": "Morning",
             "joinedDate": "2026-01-15",
             "validTill": "2026-12-31"
