@@ -1,0 +1,141 @@
+{
+  "record": {
+    "instituteName": "Zenith Learning Hub",
+    "supportContact": {
+      "whatsapp": "+916203304540",
+      "email": "support@zenithlearning.in"
+    },
+    "announcements": [
+      {
+        "title": "New revision batch live",
+        "message": "Bonus revision lectures for IUPS-2024 have been added to your course folder. Check the 'Revision' subfolder.",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "Scheduled maintenance",
+        "message": "Video playback may be briefly interrupted between 2 AM and 3 AM IST this weekend for updates.",
+        "date": "2026-07-10"
+      }
+    ],
+    "classes": {
+      "SSDK-2024": {
+        "poster": "https://drive.google.com/thumbnail?id=1HVRIIBjhrC6XdDQ1SJmzSBHBSliAN3_V&sz=w1000",
+        "description": "Comprehensive skill development program covering structured modules, recorded lectures, practice materials and guided learning support for the 2024 batch.",
+        "instructor": {
+          "name": "Aarav Mehta",
+          "bio": "10+ years teaching skill-development and career-readiness programs."
+        },
+        "level": "Beginner",
+        "tag": "Bestseller",
+        "rating": 4.8,
+        "totalLectures": 36,
+        "language": "English",
+        "lastUpdated": "2026-06-20",
+        "color": "#F2A93B",
+        "students": [
+          {
+            "phone": "6203304540",
+            "auth_key": "key1",
+            "name": "Riya Sharma",
+            "batch": "Morning",
+            "joinedDate": "2026-01-15",
+            "validTill": "2026-12-31"
+          },
+          {
+            "phone": "6203304541",
+            "auth_key": "key2",
+            "name": "Karan Verma",
+            "batch": "Evening",
+            "joinedDate": "2026-02-01",
+            "validTill": "2026-11-30"
+          }
+        ],
+        "youtubePlaylistId": "PLAeePiDQTajejxJtHLVUmTR5npdCIRG9Q"
+      },
+      "IUPS-2024": {
+        "poster": "https://drive.google.com/thumbnail?id=1HVRIIBjhrC6XdDQ1SJmzSBHBSliAN3_V&sz=w1000",
+        "description": "Intensive preparation series designed for competitive performance with concept clarity, advanced problem-solving sessions and revision-focused content.",
+        "instructor": {
+          "name": "Priya Nair",
+          "bio": "Specialist in competitive exam strategy and rapid revision techniques."
+        },
+        "level": "Advanced",
+        "tag": "New",
+        "rating": 4.9,
+        "totalLectures": 52,
+        "language": "English",
+        "lastUpdated": "2026-07-05",
+        "color": "#3D4C8C",
+        "students": [
+          {
+            "phone": "6203304542",
+            "auth_key": "adityashaw02",
+            "name": "Aditya Shaw",
+            "batch": "Morning",
+            "joinedDate": "2026-01-20",
+            "validTill": "2026-09-30"
+          },
+          {
+            "phone": "6203304548",
+            "auth_key": "adityashaw",
+            "name": "Aditya Shaw",
+            "batch": "Morning",
+            "joinedDate": "2026-01-20",
+            "validTill": "2026-09-30"
+          },
+          {
+            "phone": "9432867404",
+            "auth_key": "AS300924",
+            "name": "Ananya Sen",
+            "batch": "Weekend",
+            "joinedDate": "2026-03-10",
+            "validTill": "2027-01-15"
+          },
+          {
+            "phone": "2222222222",
+            "auth_key": "key4",
+            "name": "Test Student",
+            "batch": "Evening",
+            "joinedDate": "2026-01-01",
+            "validTill": "2026-08-01"
+          }
+        ],
+        "youtubePlaylistId": "PL53WOhqfIvD4YXg3bzASngyPS0FZr8Fmo"
+      },
+      "New Folder Json File": {
+        "poster": "https://drive.google.com/thumbnail?id=1HVRIIBjhrC6XdDQ1SJmzSBHBSliAN3_V&sz=w1000",
+        "description": "Supplementary course materials including special sessions, bonus lectures and additional learning resources for extended academic support.",
+        "instructor": {
+          "name": "Dev Kapoor",
+          "bio": "Guest faculty covering bonus and supplementary sessions."
+        },
+        "level": "Intermediate",
+        "tag": "",
+        "rating": 4.5,
+        "totalLectures": 12,
+        "language": "English",
+        "lastUpdated": "2026-05-18",
+        "color": "#2E8B57",
+        "students": [
+          {
+            "phone": "3333333333",
+            "auth_key": "key5",
+            "name": "Meera Iyer",
+            "batch": "Morning",
+            "joinedDate": "2026-04-01",
+            "validTill": "2026-10-01"
+          },
+          {
+            "phone": "4444444444",
+            "auth_key": "key6",
+            "name": "Sameer Khan",
+            "batch": "Evening",
+            "joinedDate": "2026-04-05",
+            "validTill": "2026-10-05"
+          }
+        ],
+        "youtubePlaylistId": "PLREPLACE_WITH_BONUS_PLAYLIST_ID"
+      }
+    }
+  }
+  }
