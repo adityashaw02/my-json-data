@@ -22,7 +22,7 @@
         "poster": "https://drive.google.com/thumbnail?id=1HVRIIBjhrC6XdDQ1SJmzSBHBSliAN3_V&sz=w1000",
         "description": "Comprehensive skill development program covering structured modules, recorded lectures, practice materials and guided learning support for the 2024 batch.",
         "instructor": {
-          "name": "Aarav Mehta",
+          "name": "Aarav Shaw",
           "bio": "10+ years teaching skill-development and career-readiness programs."
         },
         "level": "Beginner",
@@ -56,13 +56,13 @@
         "poster": "https://drive.google.com/thumbnail?id=1HVRIIBjhrC6XdDQ1SJmzSBHBSliAN3_V&sz=w1000",
         "description": "Intensive preparation series designed for competitive performance with concept clarity, advanced problem-solving sessions and revision-focused content.",
         "instructor": {
-          "name": "Priya Nair",
+          "name": "Priya Shaw",
           "bio": "Specialist in competitive exam strategy and rapid revision techniques."
         },
         "level": "Advanced",
         "tag": "New",
         "rating": 4.9,
-        "totalLectures": 52,
+        "totalLectures": "--",
         "language": "English",
         "lastUpdated": "2026-07-05",
         "color": "#3D4C8C",
